@@ -1,0 +1,17 @@
+sqlalchemy
+python-dotenv
+fastapi
+uvicorn
+gunicorn
+psycopg2
+# Dev Dependencies
+httpx
+pytest
+sqlmodel
+bcrypt
+python-jose
+requests
+sentence_transformers
+numpy
+openai
+redis
